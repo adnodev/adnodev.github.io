@@ -56,26 +56,4 @@ footer {
   overflow: scroll;
 }
 
-.hide-footer {
-  display: none;
-}
-
-@media (max-width: 1500px) {
-  footer {
-    width: 100vw;
-    height: 20vh;
-    background-color: #fff;
-    padding: 20px;
-    position: absolute;
-    top: 80vh;
-  }
-
-  .jumbotron {
-    background-color: #e7edf3 !important;
-    border-radius: .3rem !important;
-    margin-bottom: 2rem !important;
-    padding: 2rem !important;
-  }
-}
-
 /*# sourceMappingURL=index.83d9161e.css.map */
