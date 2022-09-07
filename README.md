@@ -1,1 +1,3 @@
-# adnodev site
+# Adno demo
+
+Give Adno a try!
