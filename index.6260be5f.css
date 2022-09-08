@@ -1255,6 +1255,13 @@ table tr {
   border: 2px solid #007bff;
 }
 
+.homewpbar {
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+  display: flex;
+}
+
 @media (max-width: 1500px) {
   #projects_list {
     width: 80vw;
