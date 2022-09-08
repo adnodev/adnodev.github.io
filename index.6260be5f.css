@@ -1131,76 +1131,6 @@ table tr {
   padding: 10px;
 }
 
-.jumbotron {
-  background-color: var(--bs-light);
-  border-radius: .3rem;
-  margin-bottom: 2rem;
-  padding: 4rem 2rem;
-}
-
-#projects_list {
-  width: 80vw;
-  height: 35vh;
-  flex-direction: column;
-  align-items: center;
-  margin: auto;
-  display: flex;
-  overflow: auto;
-}
-
-.with_projects {
-  width: 100%;
-  display: flex;
-}
-
-.with_projects_left {
-  width: 50%;
-}
-
-.with_projects_right {
-  width: 50%;
-  padding: 15px;
-}
-
-.with_projects_right #projects_list {
-  width: 100%;
-}
-
-.import_project_separator_without_projects {
-  text-align: center;
-  margin: 20px 0;
-}
-
-.picture-div {
-  width: 85%;
-  height: 90%;
-  margin: 5vh auto 0;
-}
-
-.project-body {
-  justify-content: space-between;
-  align-items: center;
-  display: flex;
-}
-
-.projet-page-title {
-  text-align: center;
-  margin: 4vh auto;
-}
-
-.adno_container_wp {
-  width: 90vw;
-  height: 70vh;
-  margin: auto;
-  overflow: auto;
-}
-
-#myFormWithoutProjects {
-  flex-direction: column;
-  align-items: center;
-  display: flex;
-}
-
 .card-img-adno {
   justify-content: center;
   align-items: center;
@@ -1521,7 +1451,7 @@ table tr {
 
 @media (max-width: 1500px) {
   .list_annotations {
-    height: 20vh !important;
+    height: 30vh !important;
   }
 }
 
