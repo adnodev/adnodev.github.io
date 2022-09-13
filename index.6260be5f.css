@@ -989,8 +989,14 @@ table tr {
   background-color: #fff !important;
 }
 
+.adno-nav-log {
+  width: 10vw;
+  justify-content: center;
+  display: flex;
+}
+
 .navbar-container {
-  width: 75vw;
+  width: 80vw;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
@@ -1258,6 +1264,7 @@ table tr {
 .homewpbar {
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
   margin: 5px;
   display: flex;
 }
