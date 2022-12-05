@@ -22567,7 +22567,7 @@
                 background: "none"
             },
             buttons: {
-                autorun: '<i class="fas fa-magic"></i>',
+                autorun: '<i class="fas fa-play"></i>',
                 autorunoff: '<i class="fas fa-stop-circle"></i>',
                 overlay: '<i class="fas fa-toggle-off"></i>',
                 overlayoff: '<i class="fas fa-toggle-on"></i>',
